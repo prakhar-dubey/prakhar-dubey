@@ -1,10 +1,5 @@
-## Hi there 👋
-
-<!--
-**prakhar-dubey/prakhar-dubey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech&size=24&pause=1000&color=F7C25D&background=FFFBFA00&center=true&vCenter=true&lines=Hello+Everyone!!%2C+This+is+Prakhar;Welcome+to+my+Github+Page)](https://git.io/typing-svg)
+About Me
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
