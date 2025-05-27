@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech&size=24&pause=1000&color=F7C25D&background=FFFBFA00&vCenter=true&lines=Hello+Everyone!!%2C+This+is+Prakhar+Dubey.;Welcome+to+my+Github+Page)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech&size=24&pause=1000&color=F7C25D&background=FFFBFA00&vCenter=true&lines=Hello+Everyone!!%2C+This+is+Prakhar+Dubey.;Welcome+to+my+Github+Page..)](https://git.io/typing-svg)
 
 about me
 - 🔭 I’m currently working on ...
